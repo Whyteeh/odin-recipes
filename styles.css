@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+    color:#a249d6;
+    font-weight: bold;
+}
+body {
+    background-color:#121212;
+}
+a{
+    color:white;
+    font-weight: bold;
+    font-size: 25px;
+}
+li{
+    color:#121212;
+}
